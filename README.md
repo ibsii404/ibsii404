@@ -25,6 +25,6 @@ I am a digital product creator and the founder of **Shametic**, a digital servic
 ---
 
 ### 📊 Let's Collaborate
-- **Agency:** [Shametic]([https://github.com/ibsii404](https://shametic.web.app/)) *(Update with your agency link or LinkedIn page)*
-- **Professional Network:** [LinkedIn]([https://github.com/ibsii404](https://www.linkedin.com/in/ibtesam-ul-hassan-8ba25b329/)) *(Update with your personal LinkedIn URL)*
+- **Agency:** [Shametic]([https://github.com/ibsii404](https://shametic.web.app/)) 
+- **Professional Network:** [LinkedIn]([[https://github.com/ibsii404](https://www.linkedin.com/in/ibtesam-ul-hassan-8ba25b329/) 
 - **Location:** Multan, Pakistan 🇵🇰
